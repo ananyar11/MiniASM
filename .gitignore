@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+lex.yy.c
+miniasm.exe
+*.hex
+*.lst
+inf.asm
