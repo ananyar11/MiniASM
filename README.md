@@ -1,7 +1,5 @@
 # MiniASM: A Two-Pass Assembler for a Custom Instruction Set
 
-A mini project for **Compiler Construction Lab (23CE701P)**, Department of Computer Engineering, St. Vincent Pallotti College of Engineering & Technology, Nagpur (Session 2026-27).
-
 MiniASM translates assembly programs written for a small custom instruction set into 16-bit machine code. It is implemented twice, in **Python** and in **Flex with C**, and both versions give identical output. A simulator runs the generated machine code so the result can be checked.
 
 ## How it works
